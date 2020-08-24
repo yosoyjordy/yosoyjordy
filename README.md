@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://now-playing-yosoyjordy.vercel.app/api/spotify-playing" alt="YoSoyJordy Spotify Playing" width="350" />
+<img src="https://spotify-now-playing.yosoyjordy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 
 ### Connect with me:
 
