@@ -10,6 +10,10 @@
 - 🥅 2020 Goals: Learn different Front-End frameworks.
 - ⚡ Fun fact: I love to make youtube videos
 
+### Spotify Playing 🎧
+
+<img src="https://now-playing-yosoyjordy.vercel.app/api/spotify-playing" alt="YoSoyJordy Spotify Playing" width="350" />
+
 ### Connect with me:
 
 [<img align="left" alt="YoSoyJordy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
