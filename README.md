@@ -4,7 +4,7 @@
 
 ## I'm a Developer, and Gamer!
 
-- 🔭 I’m currently working on diferent websites!
+- 🔭 I’m currently working on different websites!
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn different Front-End frameworks.
