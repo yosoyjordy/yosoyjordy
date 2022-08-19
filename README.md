@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on different websites!
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn different Front-End frameworks.
+- 🥅 2022 Goals: ReactJS course and return with the most beautiful girl in the world.
 - ⚡ Fun fact: I love to make youtube videos
 
 ### Connect with me:
