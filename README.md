@@ -42,17 +42,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [un video MEME para un MEME](https://www.youtube.com/watch?v=L5sGeofeV7g)
-- [Realidad Coronavirus MEME](https://www.youtube.com/watch?v=Jl9QTNSyHiw&t=32ss)
-
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://www.youtube.com/channel/UCeBZIcKSvmxRKV7uZDpU-yw) -->
-
 [website]: https://yosoyjordy.github.io
 [youtube]: https://www.youtube.com/channel/UCeBZIcKSvmxRKV7uZDpU-yw
 [instagram]: https://instagram.com/yosoyjordy
