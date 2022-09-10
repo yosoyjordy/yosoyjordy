@@ -37,5 +37,5 @@
 
 [website]: https://yosoyjordy.github.io
 [youtube]: https://www.youtube.com/channel/UCeBZIcKSvmxRKV7uZDpU-yw
-[instagram]: https://instagram.com/yosoyjordy
+[instagram]: https://instagram.com/penchamate
 [linkedin]: https://linkedin.com/in/yosoyjordy
