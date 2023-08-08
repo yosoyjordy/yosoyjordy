@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on different websites!
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: ReactJS carsh course and NodeJS course.
+- 🥅 2023 Goals: ReactJS course and NodeJS course.
 - ⚡ Fun fact: I love to make youtube videos
 
 ### Connect with me:
